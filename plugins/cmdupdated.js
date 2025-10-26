@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const { cmd, commands } = require('../command');
-
+//niahe
 cmd({
   pattern: 'updatecmd',
   react: '♻',
