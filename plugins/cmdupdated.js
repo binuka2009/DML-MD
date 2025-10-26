@@ -46,7 +46,7 @@ cmd({
     }
 
     // Send confirmation that commands were updated
-    reply("Commands updated successfully.");
+    reply(" ✅ Commands updated successfully.");
   } catch (error) {
     // Log and display any errors
     console.error("Error updating commands:", error);
