@@ -8,7 +8,7 @@
     "start": "pm2-runtime index.js --name DML-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:kiuur/baileys",
+    "@whiskeysockets/baileys": "github:EdderBot02/bail",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
