@@ -56,7 +56,7 @@ WELCOME TO DML-MD
 ♻ You’ll need a session to connect your bot.  
 
 
-[![Pair Device (Server)](https://img.shields.io/badge/⚡_SERVER_1-8A2BE2?style=for-the-badge&logo=windows&logoColor=white)](https://dml-md-session-8bg5.onrender.com)
+[![Pair Device (Server)](https://img.shields.io/badge/⚡_SERVER_1-8A2BE2?style=for-the-badge&logo=windows&logoColor=white)](https://dml-md-session1.onrender.com)
 
 
 ---
